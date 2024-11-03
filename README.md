@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 <!--
-**Ethan04Munoz/Ethan04Munoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ethan04Munoz/Ethan04Munoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
+--->
 # 💫 About Me:
 🔭 I’m currently working as a trainee on software development on WISE International. I’m also working on enhancing my portfolio with diverse web development projects, like some small browser games or browser extensions.<br>🌱 I’m currently Mobile Development and Data analysis to expand my skills for future opportunities in software development, while continuously improving my JavaScript and Python proficiency.
 
@@ -16,6 +17,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=Ethan04Munoz&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ethan04Munoz&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ethan04Munoz&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
 [![](https://visitcount.itsvg.in/api?id=Ethan04Munoz&icon=0&color=0)](https://visitcount.itsvg.in)
+
